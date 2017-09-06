@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	char string[12] = "Hello World!";
-	printf("%s", string);
+	string name = "Hello World!";
+	printf("%s", name);
 	return 0;
 }
